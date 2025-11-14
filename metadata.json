@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Contact Form",
+  "description": "A modern, glassmorphism-style contact form that simulates sending emails and saving to a database. It uses the Gemini API to generate a polite auto-reply email confirmation to the user.",
+  "requestFramePermissions": []
+}
